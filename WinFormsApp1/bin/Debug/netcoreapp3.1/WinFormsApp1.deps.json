@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WinFormsApp1/1.0.0": {
+        "dependencies": {
+          "SimplePascalParser": "1.0.0.0"
+        },
+        "runtime": {
+          "WinFormsApp1.dll": {}
+        }
+      },
+      "SimplePascalParser/1.0.0.0": {
+        "runtime": {
+          "SimplePascalParser.exe": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SyntaxTree/1.5.0.412": {
+        "runtime": {
+          "SyntaxTree.dll": {
+            "assemblyVersion": "1.5.0.412",
+            "fileVersion": "1.5.0.412"
+          }
+        }
+      },
+      "Errors/1.5.0.403": {
+        "runtime": {
+          "Errors.dll": {
+            "assemblyVersion": "1.5.0.403",
+            "fileVersion": "1.5.0.403"
+          }
+        }
+      },
+      "Localization/1.0.0.0": {
+        "runtime": {
+          "Localization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimplePascalParser/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SyntaxTree/1.5.0.412": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Errors/1.5.0.403": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Localization/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
